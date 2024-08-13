@@ -29,4 +29,11 @@
   - Caminho do projeto: `/workspaces/programacao_web_fag/estilos`
 
 ---
+## Aula de 12/Agosto 2024
 
+- [x] **projeto: TodoList**
+  - Adicionar Nova branch para exemplo de todo lists
+  - Atodo listse todo caso o todo é marcado como completo ou addicionar uma linha caso o tudo está marcado como completed
+  - Caminho do projeto
+    branch: todolist
+  : `/workspaces/programacao_web_fag/todolist`
